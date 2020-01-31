@@ -1,0 +1,8 @@
+/home/khan/Desktop/University Project/Back End/Core/bin/Debug/netstandard2.0/Core.deps.json
+/home/khan/Desktop/University Project/Back End/Core/bin/Debug/netstandard2.0/Core.dll
+/home/khan/Desktop/University Project/Back End/Core/bin/Debug/netstandard2.0/Core.pdb
+/home/khan/Desktop/University Project/Back End/Core/obj/Debug/netstandard2.0/Core.csprojAssemblyReference.cache
+/home/khan/Desktop/University Project/Back End/Core/obj/Debug/netstandard2.0/Core.AssemblyInfoInputs.cache
+/home/khan/Desktop/University Project/Back End/Core/obj/Debug/netstandard2.0/Core.AssemblyInfo.cs
+/home/khan/Desktop/University Project/Back End/Core/obj/Debug/netstandard2.0/Core.dll
+/home/khan/Desktop/University Project/Back End/Core/obj/Debug/netstandard2.0/Core.pdb
